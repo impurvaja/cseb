@@ -1,0 +1,23 @@
+{
+    "cards":[{
+        "img":"oppo.jpg",
+        "name":"oppo",
+        "price":"29000",
+        "offer":"off/7000",
+        "button": "view"
+    },{
+        "img":"vivo.jpg",
+        "name":"vivo",
+        "price":"32000",
+        "offer":"off/6000",
+        "button":"view"
+    },{
+        "img":"realme.jpg",
+        "name":"realme",
+        "price":"25000",
+        "offer":"off/5000",
+        "button":"view"
+    }
+
+    ]
+}
